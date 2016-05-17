@@ -33,6 +33,15 @@
        0000.
             move "=====11.25.00.00====="to ws-gp-versao-promax.
             move ws-versao-promax       to lnk-versao-sistema.
+            move "=====11.23.00.00====="to ws-gp-versao-promax.
+            move ws-versao-promax       to lnk-versao-sistema.
+            move "=====11.23.00.00====="to ws-gp-versao-promax.
+            move ws-versao-promax       to lnk-versao-sistema.
+            move "=====11.23.00.00====="to ws-gp-versao-promax.
+            move ws-versao-promax       to lnk-versao-sistema.
+            move "=====11.23.00.00====="to ws-gp-versao-promax.
+            move ws-versao-promax       to lnk-versao-sistema.
+
        0000-saida.
             exit program
             stop run.

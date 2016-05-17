@@ -18,6 +18,7 @@
               05 filler                 pic x(05).
               05 ws-versao-promax       pic x(11).
               05 filler                 pic x(05).
+              05 ws-borges              pic x(99).
 
       *>===================================================================================
        linkage section.
@@ -30,7 +31,7 @@
       *>===================================================================================
        0000-controle section.
        0000.
-            move "=====11.23.00.00====="to ws-gp-versao-promax.
+            move "=====11.25.00.00====="to ws-gp-versao-promax.
             move ws-versao-promax       to lnk-versao-sistema.
             move "=====11.23.00.00====="to ws-gp-versao-promax.
             move ws-versao-promax       to lnk-versao-sistema.

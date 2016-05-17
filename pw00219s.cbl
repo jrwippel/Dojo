@@ -18,6 +18,7 @@
               05 filler                 pic x(05).
               05 ws-versao-promax       pic x(11).
               05 filler                 pic x(05).
+              05 ws-borges              pic x(99).
 
       *>===================================================================================
        linkage section.
